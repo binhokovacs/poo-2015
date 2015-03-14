@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace poo_paint
 {
-    public class Retangulo
+    public class Imprime
     {
 
     }
