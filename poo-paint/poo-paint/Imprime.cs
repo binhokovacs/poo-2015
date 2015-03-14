@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace poo_paint
 {
-    public class Program
+    public class Retangulo
     {
-        static void Main(string[] args)
-        {
 
-            int x, y, l, a;
-
-        }
     }
 }
